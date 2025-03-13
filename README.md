@@ -61,6 +61,7 @@ Follow the dataset preparation guide in data/README.md.
 !python inference.py --image_path sample.jpg
 
 🎨 Model Architecture
+https://github.com/akashcse20/Image-Captioning-by-attention/blob/main/model%20.png
 
 📊 VGG16: Extracts visual features.
 
@@ -70,7 +71,7 @@ Follow the dataset preparation guide in data/README.md.
 
 🌟 Example Output
 
-🖼️ Input Image
+![Model Output]([https://raw.githubusercontent.com/user/repo/main/image.png](https://github.com/akashcse20/Image-Captioning-by-attention/blob/main/output%20.png))
 
 📰 Generated Caption
 
