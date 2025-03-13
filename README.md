@@ -65,19 +65,15 @@ Follow the dataset preparation guide in data/README.md.
 
 📊 VGG16: Extracts visual features.
 
+![Image](https://github.com/user-attachments/assets/21ead80c-4206-4689-9dad-62c0eb9386ff)
+
 ♻️ LSTM Decoder: Generates textual captions.
 
 💡 Attention Layer: Enhances focus on relevant image regions.
 
-🌟 Example Output
+🌟Output
+![Image](https://github.com/user-attachments/assets/13fdaefb-cadd-4a0e-887a-cad5dd9462b2)
 
-![Model Output]([https://raw.githubusercontent.com/user/repo/main/image.png](https://github.com/akashcse20/Image-Captioning-by-attention/blob/main/output%20.png))
-
-📰 Generated Caption
-
-
-
-"A dog is running in the park."
 
 📃 References
 
