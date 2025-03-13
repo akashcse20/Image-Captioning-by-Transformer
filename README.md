@@ -65,15 +65,16 @@ Follow the dataset preparation guide in data/README.md.
 
 📊 VGG16: Extracts visual features.
 
-![Image](https://github.com/user-attachments/assets/21ead80c-4206-4689-9dad-62c0eb9386ff)
+![Image](https://github.com/user-attachments/assets/13fdaefb-cadd-4a0e-887a-cad5dd9462b2)
+
 
 ♻️ LSTM Decoder: Generates textual captions.
 
 💡 Attention Layer: Enhances focus on relevant image regions.
 
 🌟Output
-![Image](https://github.com/user-attachments/assets/13fdaefb-cadd-4a0e-887a-cad5dd9462b2)
 
+![Image](https://github.com/user-attachments/assets/21ead80c-4206-4689-9dad-62c0eb9386ff)
 
 📃 References
 
